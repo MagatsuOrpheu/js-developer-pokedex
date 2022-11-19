@@ -1,8 +1,9 @@
-
+//CRIA O NOSSO MODELO DE DADOS DOS POKEMONS
 class Pokemon {
     number;
     name;
-    type;
     types = [];
+    type;
     photo;
 }
+
